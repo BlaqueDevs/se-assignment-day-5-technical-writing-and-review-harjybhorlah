@@ -65,6 +65,11 @@ Simplified Sentence: "The project manager will start the new workflow process ne
 Improvement: The term "start" is more common and easier to understand than "initiate." Using "start" directly conveys the action in a straightforward manner, making it easier for most people to quickly grasp what will happen.
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
+
+Examples provide a specific scenario or case that makes abstract ideas more tangible. For instance, instead of explaining the concept of "compounding interest" abstractly, showing a practical example of how interest accumulates on a savings account helps clarify the process.
+
+Diagrams, charts, and infographics break down complex information into visual formats that are easier to digest. For instance, a flowchart showing the steps of a process can simplify understanding compared to a lengthy textual description
+
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 ## 10. What are some best practices for creating effective headings and subheadings?
